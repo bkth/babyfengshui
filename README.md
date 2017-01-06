@@ -1,6 +1,6 @@
 # babyfengshui
 
-This was a pwnable worth 150 pts in the [33c3ctf](https://ctftime.org/event/404)  organised by [Eat, Sleep, Pwn, Repeat](https://ctftime.org/team/15712)
+This was a pwnable worth 150 pts that I wrote for the [33C3CTF](https://ctftime.org/event/404)  organised by [Eat, Sleep, Pwn, Repeat](https://ctftime.org/team/15712)
 
 Every script used for the deployment of the challenge are included, you can just execute
 
